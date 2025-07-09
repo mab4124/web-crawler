@@ -1,0 +1,41 @@
+2025-07-09 18:08:14,718 - INFO - Successfully scraped https://example.com
+2025-07-09 18:09:40,834 - INFO - Successfully scraped https://example.com
+2025-07-09 18:10:13,555 - ERROR - Error fetching https://example.com/test: Connection error
+2025-07-09 18:18:11,566 - INFO - Successfully scraped https://httpbin.org
+2025-07-09 18:18:14,337 - ERROR - Error fetching https://httpbin.org/forms/post: 502 Server Error: Bad Gateway for url: https://httpbin.org/forms/post
+2025-07-09 18:18:14,338 - WARNING - Failed to scrape https://httpbin.org/forms/post
+2025-07-09 18:18:56,438 - INFO - Successfully scraped https://books.toscrape.com
+2025-07-09 18:18:58,973 - INFO - Successfully scraped https://books.toscrape.com/index.html
+2025-07-09 18:19:01,524 - INFO - Successfully scraped https://books.toscrape.com/catalogue/category/books_1/index.html
+2025-07-09 18:19:03,716 - INFO - Successfully scraped https://books.toscrape.com/catalogue/category/books/travel_2/index.html
+2025-07-09 18:19:06,310 - INFO - Successfully scraped https://books.toscrape.com/catalogue/category/books/mystery_3/index.html
+2025-07-09 18:19:08,857 - INFO - Successfully scraped https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html
+2025-07-09 18:19:11,355 - INFO - Successfully scraped https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html
+2025-07-09 18:19:13,659 - INFO - Successfully scraped https://books.toscrape.com/catalogue/category/books/classics_6/index.html
+2025-07-09 18:19:15,692 - INFO - Successfully scraped https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html
+2025-07-09 18:19:18,139 - INFO - Successfully scraped https://books.toscrape.com/catalogue/category/books/romance_8/index.html
+2025-07-09 18:19:20,407 - INFO - Successfully scraped https://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html
+2025-07-09 18:19:22,724 - INFO - Successfully scraped https://books.toscrape.com/catalogue/category/books/fiction_10/index.html
+2025-07-09 18:19:25,114 - INFO - Successfully scraped https://books.toscrape.com/catalogue/category/books/childrens_11/index.html
+2025-07-09 18:19:27,368 - INFO - Successfully scraped https://books.toscrape.com/catalogue/category/books/religion_12/index.html
+2025-07-09 18:19:30,110 - INFO - Successfully scraped https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html
+2025-07-09 18:19:32,381 - INFO - Successfully scraped https://books.toscrape.com/catalogue/category/books/music_14/index.html
+2025-07-09 18:19:34,992 - INFO - Successfully scraped https://books.toscrape.com/catalogue/category/books/default_15/index.html
+2025-07-09 18:19:37,486 - INFO - Successfully scraped https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html
+2025-07-09 18:19:39,686 - INFO - Successfully scraped https://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html
+2025-07-09 18:19:42,006 - INFO - Successfully scraped https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html
+2025-07-09 19:38:19,498 - INFO - Successfully scraped https://books.toscrape.com
+2025-07-09 19:38:21,668 - INFO - Successfully scraped https://books.toscrape.com/index.html
+2025-07-09 19:38:23,828 - INFO - Successfully scraped https://books.toscrape.com/catalogue/category/books_1/index.html
+2025-07-09 19:38:25,790 - INFO - Successfully scraped https://books.toscrape.com/catalogue/category/books/travel_2/index.html
+2025-07-09 19:38:27,900 - INFO - Successfully scraped https://books.toscrape.com/catalogue/category/books/mystery_3/index.html
+2025-07-09 22:00:28,817 - INFO - Successfully scraped https://en.wikipedia.org/wiki/Python_(programming_language)
+2025-07-09 22:00:30,359 - INFO - Successfully scraped https://en.wikipedia.org/wiki/Main_Page
+2025-07-09 22:00:33,013 - INFO - Successfully scraped https://en.wikipedia.org/wiki/Special:Random
+2025-07-09 22:00:34,574 - INFO - Successfully scraped https://en.wikipedia.org/wiki/Special:Nearby
+2025-07-09 22:00:38,132 - INFO - Successfully scraped https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Python+%28programming+language%29
+2025-07-09 22:13:47,363 - INFO - Successfully scraped https://www.google.com
+2025-07-09 22:13:48,686 - INFO - Successfully scraped https://www.google.com/about/products/?sca_esv=f7156635f6e9a261
+2025-07-09 22:13:50,053 - INFO - Successfully scraped https://www.google.com/search?sca_esv=f7156635f6e9a261&tbm=isch
+2025-07-09 22:13:51,346 - INFO - Successfully scraped https://www.google.com/intl/en-IN/policies/privacy/
+2025-07-09 22:13:52,733 - INFO - Successfully scraped https://www.google.com/intl/en-IN/policies/terms/

@@ -1,0 +1,1679 @@
+[
+  {
+    "url": "https://www.google.com",
+    "title": "Google",
+    "headings": [],
+    "paragraphs": [],
+    "links": [
+      {
+        "text": "",
+        "href": "https://www.google.com/about/products/?sca_esv=f7156635f6e9a261"
+      },
+      {
+        "text": "Images",
+        "href": "https://www.google.com/search?sca_esv=f7156635f6e9a261&tbm=isch"
+      },
+      {
+        "text": "Sign in",
+        "href": "https://accounts.google.com/ServiceLogin?continue=https://www.google.com/%3Fzx%3D1752079427&btmpl=mobile_tier2&hl=en"
+      },
+      {
+        "text": "Privacy",
+        "href": "https://www.google.com/intl/en-IN/policies/privacy/"
+      },
+      {
+        "text": "Terms",
+        "href": "https://www.google.com/intl/en-IN/policies/terms/"
+      },
+      {
+        "text": "Settings",
+        "href": "https://www.google.com/preferences?hl=en"
+      },
+      {
+        "text": "Feedback",
+        "href": "https://www.google.com/tools/feedback/survey/xhtml?productId=196&bucket=typeId:84156&psd_tier=2&hl=en-IN"
+      },
+      {
+        "text": "Help",
+        "href": "https://www.google.com/support/websearch/bin/answer.py?answer=134479&hl=en"
+      },
+      {
+        "text": "Advertising",
+        "href": "https://www.google.com/intl/en-IN/ads"
+      },
+      {
+        "text": "Business",
+        "href": "https://www.google.com/intl/en-IN/services"
+      },
+      {
+        "text": "About",
+        "href": "https://www.google.com/about?hl=en-IN"
+      }
+    ],
+    "images": [
+      {
+        "alt": "",
+        "src": "https://www.google.com/images/branding/searchlogo/1x/googlelogo_tablet_tier1_hp_color_183x64dp.png"
+      }
+    ],
+    "scraped_at": "2025-07-09T22:13:47.362478"
+  },
+  {
+    "url": "https://www.google.com/about/products/?sca_esv=f7156635f6e9a261",
+    "title": "Google’s products and services - About Google",
+    "headings": [
+      {
+        "level": 1,
+        "text": "Helpful products,\n              built with you in mind"
+      },
+      {
+        "level": 2,
+        "text": "How Google Search works"
+      },
+      {
+        "level": 2,
+        "text": "New ways to learn, explore and create"
+      },
+      {
+        "level": 2,
+        "text": "Chat with Gemini"
+      },
+      {
+        "level": 2,
+        "text": "All things Android"
+      },
+      {
+        "level": 2,
+        "text": "Get to know the Pixel portfolio"
+      },
+      {
+        "level": 2,
+        "text": "Picture this"
+      },
+      {
+        "level": 2,
+        "text": "AI in our products"
+      },
+      {
+        "level": 2,
+        "text": "Google products"
+      },
+      {
+        "level": 2,
+        "text": "Footer links"
+      },
+      {
+        "level": 3,
+        "text": "Browse foldables, the latest phones with Gemini, and more."
+      },
+      {
+        "level": 3,
+        "text": "Navigate smoothly, communicate easily and stay entertained on the road."
+      },
+      {
+        "level": 3,
+        "text": "Multitask, play games and discover new apps, all on a bigger screen."
+      },
+      {
+        "level": 3,
+        "text": "Connect to Google apps, and monitor your health and fitness — right from your\n                  wrist."
+      },
+      {
+        "level": 3,
+        "text": "Get accessibility support"
+      },
+      {
+        "level": 3,
+        "text": "Filter by:"
+      },
+      {
+        "level": 3,
+        "text": "Resources"
+      },
+      {
+        "level": 3,
+        "text": "Outreach and initiatives"
+      },
+      {
+        "level": 3,
+        "text": "Research and technology"
+      },
+      {
+        "level": 3,
+        "text": "More about us"
+      },
+      {
+        "level": 4,
+        "text": "Circle to Search"
+      },
+      {
+        "level": 4,
+        "text": "Gemini for Google Workspace"
+      },
+      {
+        "level": 4,
+        "text": "Immersive View"
+      }
+    ],
+    "paragraphs": [
+      "Jump to Content",
+      "Product support",
+      "Google Store",
+      "Your Google Account",
+      "Search anything on your Android phone with a simple gesture — like circling,\n                      highlighting, scribbling or tapping.",
+      "Be more productive with Gemini, built right into Gmail, Docs, Sheets and\n                      more.",
+      "Virtually explore a place in Maps, with details like weather and busyness to\n                      help you feel like you’re really there.",
+      "Phones",
+      "Auto",
+      "Tablets",
+      "Watches",
+      "Photo Unblur",
+      "Clear up blurry shots to relive your favorite moments.",
+      "Magic Eraser",
+      "Remove unwanted distractions with a quick tap.",
+      "Browse topics or connect with our specialists.",
+      "Android",
+      "Android Auto",
+      "Android TV",
+      "Cars with Google built-in",
+      "Chrome",
+      "Chromebook",
+      "Contacts",
+      "Digital Wellbeing",
+      "Files",
+      "Finance",
+      "Fitbit",
+      "Flights",
+      "Gboard",
+      "Gemini",
+      "Gmail",
+      "Google Arts & Culture",
+      "Google Assistant",
+      "Google Authenticator",
+      "Google Calendar",
+      "Google Cast",
+      "Google Chat",
+      "Google Classroom",
+      "Google Docs",
+      "Google Drive",
+      "Google Earth",
+      "Google Family Link",
+      "Google Fi Wireless",
+      "Google Find My Device",
+      "Google Fit",
+      "Google Fonts",
+      "Google Forms",
+      "Google Home",
+      "Google Keep",
+      "Google Maps",
+      "Google Meet",
+      "Google Messages",
+      "Google Nest",
+      "Google News",
+      "Google One",
+      "Google Pay",
+      "Google Photos",
+      "Google Play",
+      "Google Play Books",
+      "Google Play Games",
+      "Google Play Pass",
+      "Google Play Protect",
+      "Google Sheets",
+      "Google Sites",
+      "Google Slides",
+      "Google Tasks",
+      "Google Translate",
+      "Google Trends",
+      "Google TV",
+      "Google TV Streamer",
+      "Google Voice",
+      "Google Wallet",
+      "Google Workspace",
+      "Lens",
+      "NotebookLM",
+      "Pixel",
+      "Pixel Buds",
+      "Pixel Tablet",
+      "Pixel Watch",
+      "Scholar",
+      "Search",
+      "Shopping",
+      "Street View",
+      "Travel",
+      "Waze",
+      "Wear OS by Google",
+      "YouTube",
+      "YouTube Kids",
+      "YouTube Music",
+      "YouTube TV",
+      "Android Enterprise",
+      "Blogger",
+      "Business Profile",
+      "Chrome Enterprise",
+      "Demand Gen",
+      "Google Ads",
+      "Google AdMob",
+      "Google AdSense",
+      "Google Ad Manager",
+      "Google Analytics",
+      "Google Assistant",
+      "Google Cloud",
+      "Google Maps Platform",
+      "Google Marketing Platform",
+      "Google Search Console",
+      "Google Workspace",
+      "Local Services Ads",
+      "Manufacturer Center",
+      "Merchant Center",
+      "Performance Max",
+      "Pixel for Business",
+      "Search Ads",
+      "Shopping Ads",
+      "Tag Manager",
+      "YouTube Ads",
+      "AI for Developers",
+      "Android",
+      "Cloud Computing",
+      "Firebase",
+      "Flutter",
+      "Google AdMob",
+      "Google Ads",
+      "Google Analytics",
+      "Google Cloud",
+      "Google for Developers",
+      "Google Identity Platform",
+      "Google Maps Platform",
+      "Google Pay",
+      "Google Play",
+      "Google Wallet",
+      "Interactive Media Ads",
+      "Search",
+      "TensorFlow",
+      "Web"
+    ],
+    "links": [
+      {
+        "text": "Jump to Content",
+        "href": "https://www.google.com/about/products/?sca_esv=f7156635f6e9a261#page-content"
+      },
+      {
+        "text": "",
+        "href": "https://about.google/"
+      },
+      {
+        "text": "",
+        "href": "https://about.google/"
+      },
+      {
+        "text": "About",
+        "href": "https://about.google/"
+      },
+      {
+        "text": "Products",
+        "href": "https://about.google/products/"
+      },
+      {
+        "text": "Company Info",
+        "href": "https://about.google/company-info/"
+      },
+      {
+        "text": "News",
+        "href": "https://blog.google/?utm_source=about.google&utm_medium=referral&utm_campaign=navigation "
+      },
+      {
+        "text": "Product support",
+        "href": "http://support.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productspage"
+      },
+      {
+        "text": "Google Store",
+        "href": "https://store.google.com/?utm_source=about&utm_medium=google_oo&utm_campaign=GS108110&utm_content=web"
+      },
+      {
+        "text": "Your Google Account",
+        "href": "http://myaccount.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productspage"
+      },
+      {
+        "text": "Jump to our products",
+        "href": "https://www.google.com/about/products/?sca_esv=f7156635f6e9a261#google-products"
+      },
+      {
+        "text": "Learn more",
+        "href": "https://www.google.com/search/howsearchworks/?utm_source=about.google&utm_medium=referral&utm_campaign=productspage"
+      },
+      {
+        "text": "Circle to Search\n\n\nSearch anything on your Android phone with a simple gesture — like circling,\n                      highlighting, scribbling or tapping.",
+        "href": "https://search.google/ways-to-search/circle-to-search/?utm_source=about.google&utm_medium=referral&utm_campaign=productspage"
+      },
+      {
+        "text": "Gemini for Google Workspace\n                  \n\nBe more productive with Gemini, built right into Gmail, Docs, Sheets and\n                      more.",
+        "href": "https://workspace.google.com/solutions/ai/?utm_source=about.google&utm_medium=referral&utm_campaign=productspage"
+      },
+      {
+        "text": "Immersive View\n                  \n\nVirtually explore a place in Maps, with details like weather and busyness to\n                      help you feel like you’re really there.",
+        "href": "http://maps.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productspage"
+      },
+      {
+        "text": "Ask away",
+        "href": "https://gemini.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productspage"
+      },
+      {
+        "text": "Phones\n                \n\n                  Browse foldables, the latest phones with Gemini, and more.",
+        "href": "https://www.android.com/phones?utm_source=about.google&utm_medium=referral&utm_campaign=productspage"
+      },
+      {
+        "text": "Auto\n                \n\n                  Navigate smoothly, communicate easily and stay entertained on the road.",
+        "href": "https://www.android.com/auto/?utm_source=about.google&utm_medium=referral&utm_campaign=productspage"
+      },
+      {
+        "text": "Tablets\n                \n\n                  Multitask, play games and discover new apps, all on a bigger screen.",
+        "href": "https://www.android.com/tablets/?utm_source=about.google&utm_medium=referral&utm_campaign=productspage"
+      },
+      {
+        "text": "Watches\n                \n\n                  Connect to Google apps, and monitor your health and fitness — right from your\n                  wrist.",
+        "href": "https://wearos.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productspage"
+      },
+      {
+        "text": "Dive in",
+        "href": "https://store.google.com/?utm_source=about&utm_medium=google_oo&utm_campaign=GS108110&utm_content=web"
+      },
+      {
+        "text": "Photo Unblur\n                    \n\n                      Clear up blurry shots to relive your favorite moments.",
+        "href": "https://www.google.com/photos/editing/?utm_source=about.google&utm_medium=referral&utm_campaign=productspage"
+      },
+      {
+        "text": "Magic Eraser\n                    \n\n                      Remove unwanted distractions with a quick tap.",
+        "href": "https://www.google.com/photos/editing/?utm_source=about.google&utm_medium=referral&utm_campaign=productspage"
+      },
+      {
+        "text": "Learn more",
+        "href": "https://ai.google/get-started/products?utm_source=aboutgoogle&utm_medium=google-oo&utm_campaign=February2025&utm_content=interstitial"
+      },
+      {
+        "text": "Learn more",
+        "href": "https://support.google.com/accessibility?sjid=2138668768838005940-NA#topic=9071908?utm_source=about.google&utm_medium=referral&utm_campaign=productspage"
+      },
+      {
+        "text": "Android",
+        "href": "https://www.android.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Android Auto",
+        "href": "https://www.android.com/auto/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Android TV",
+        "href": "https://www.android.com/tv/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Cars with Google built-in",
+        "href": "https://built-in.google/cars/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Chrome",
+        "href": "https://www.google.com/chrome/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Chromebook",
+        "href": "https://www.google.com/chromebook/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Contacts",
+        "href": "https://play.google.com/store/apps/details?id=com.google.android.contacts#_ga=2.64729958.83130407.1517253748-1400634622.1515717381"
+      },
+      {
+        "text": "Digital Wellbeing",
+        "href": "https://www.android.com/digital-wellbeing/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Files",
+        "href": "https://files.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Finance",
+        "href": "https://www.google.com/finance?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Fitbit",
+        "href": "https://store.google.com/category/watches_trackers?utm_source=about&utm_medium=google_oo&utm_campaign=GS108110&utm_content=web"
+      },
+      {
+        "text": "Flights",
+        "href": "https://www.google.com/flights?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Gboard",
+        "href": "https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&e=-EnableAppDetailsPageRedesign?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Gemini",
+        "href": "https://gemini.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Gmail",
+        "href": "https://www.gmail.com/intl/en_us/mail/help/about.html?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Arts & Culture",
+        "href": "https://artsandculture.google.com/?utm_source=google&utm_medium=about_google"
+      },
+      {
+        "text": "Google Assistant",
+        "href": "https://assistant.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Authenticator",
+        "href": "https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&e=-EnableAppDetailsPageRedesign?utm_source%3Dabout.google?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Calendar",
+        "href": "https://workspace.google.com/products/calendar/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Cast",
+        "href": "https://www.android.com/better-together/#cast?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Chat",
+        "href": "https://workspace.google.com/products/chat/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Classroom",
+        "href": "https://edu.google.com/workspace-for-education/classroom/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Docs",
+        "href": "https://www.google.com/docs/about/?utm_source=gaboutpage&utm_medium=docslink&utm_campaign=gabout"
+      },
+      {
+        "text": "Google Drive",
+        "href": "https://www.google.com/drive/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Earth",
+        "href": "https://www.google.com/earth/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Family Link",
+        "href": "https://families.google/familylink/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Fi Wireless",
+        "href": "https://fi.google.com/about/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Find My Device",
+        "href": "https://www.google.com/android/find?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Fit",
+        "href": "https://www.google.com/fit/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Fonts",
+        "href": "https://fonts.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Forms",
+        "href": "https://www.google.com/forms/about/?utm_source=gaboutpage&utm_medium=formslink&utm_campaign=gabout"
+      },
+      {
+        "text": "Google Home",
+        "href": "https://home.google.com/welcome?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Keep",
+        "href": "https://www.google.com/keep/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Maps",
+        "href": "https://www.google.com/maps/about/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Meet",
+        "href": "https://workspace.google.com/products/meet/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Messages",
+        "href": "https://messages.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Nest",
+        "href": "https://store.google.com/category/connected_home?utm_source=about&utm_medium=google_oo&utm_campaign=GS108110&utm_content=web"
+      },
+      {
+        "text": "Google News",
+        "href": "https://news.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google One",
+        "href": "https://one.google.com/about?utm_source=google_about&utm_medium=web&utm_campaign=products"
+      },
+      {
+        "text": "Google Pay",
+        "href": "https://pay.google.com/about/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Photos",
+        "href": "https://www.google.com/photos/about?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Play",
+        "href": "https://play.google.com/store/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Play Books",
+        "href": "https://play.google.com/store/books/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Play Games",
+        "href": "https://play.google.com/googleplaygames/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Play Pass",
+        "href": "https://play.google.com/about/play-pass/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Play Protect",
+        "href": "https://www.android.com/play-protect/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Sheets",
+        "href": "https://www.google.com/sheets/about/?utm_source=gaboutpage&utm_medium=sheetslink&utm_campaign=gabout"
+      },
+      {
+        "text": "Google Sites",
+        "href": "https://workspace.google.com/products/sites/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Slides",
+        "href": "https://www.google.com/slides/about/?utm_source=gaboutpage&utm_medium=slideslink&utm_campaign=gabout"
+      },
+      {
+        "text": "Google Tasks",
+        "href": "https://tasks.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Translate",
+        "href": "https://translate.google.com/about?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Trends",
+        "href": "https://www.google.com/trends/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google TV",
+        "href": "https://tv.google/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google TV Streamer",
+        "href": "https://store.google.com/product/google_tv_streamer?utm_source=about&utm_medium=google_oo&utm_campaign=GS108110&utm_content=web"
+      },
+      {
+        "text": "Google Voice",
+        "href": "https://workspace.google.com/products/voice/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Wallet",
+        "href": "https://wallet.google/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Workspace",
+        "href": "https://workspace.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Lens",
+        "href": "https://lens.google/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "NotebookLM",
+        "href": "https://notebooklm.google?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Pixel",
+        "href": "https://store.google.com/category/phones?utm_source=about&utm_medium=google_oo&utm_campaign=GS108110&utm_content=web"
+      },
+      {
+        "text": "Pixel Buds",
+        "href": "https://store.google.com/product/pixel_buds?utm_source=about&utm_medium=google_oo&utm_campaign=GS108110&utm_content=web"
+      },
+      {
+        "text": "Pixel Tablet",
+        "href": "https://store.google.com/us/product/pixel_tablet?utm_source=about&utm_medium=google_oo&utm_campaign=GS108110&utm_content=web"
+      },
+      {
+        "text": "Pixel Watch",
+        "href": "https://store.google.com/category/watches?utm_source=about&utm_medium=google_oo&utm_campaign=GS108110&utm_content=web"
+      },
+      {
+        "text": "Scholar",
+        "href": "https://scholar.google.com/intl/en/scholar/about.html?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Search",
+        "href": "https://search.google/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Shopping",
+        "href": "https://shopping.google.com/u/0/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Street View",
+        "href": "https://www.google.com/streetview/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Travel",
+        "href": "https://www.google.com/travel/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Waze",
+        "href": "https://www.waze.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Wear OS by Google",
+        "href": "https://wearos.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "YouTube",
+        "href": "https://www.youtube.com/yt/about/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "YouTube Kids",
+        "href": "https://www.youtubekids.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "YouTube Music",
+        "href": "https://music.youtube.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "YouTube TV",
+        "href": "https://tv.youtube.com/welcome/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist&utm_servlet=prod&rd_rsn=lo"
+      },
+      {
+        "text": "Android Enterprise",
+        "href": "https://www.android.com/enterprise?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Blogger",
+        "href": "https://www.blogger.com/features?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Business Profile",
+        "href": "https://www.google.com/business/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Chrome Enterprise",
+        "href": "https://chromeenterprise.google/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Demand Gen",
+        "href": "https://ads.google.com/home/campaigns/demand-gen/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Ads",
+        "href": "https://ads.google.com/home/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google AdMob",
+        "href": "https://admob.google.com/home/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google AdSense",
+        "href": "https://www.google.com/adsense/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Ad Manager",
+        "href": "https://admanager.google.com/home/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Analytics",
+        "href": "https://www.google.com/analytics/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Assistant",
+        "href": "https://assistant.google.com/business/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Cloud",
+        "href": "https://cloud.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Maps Platform",
+        "href": "https://mapsplatform.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Marketing Platform",
+        "href": "https://marketingplatform.google.com/about/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Search Console",
+        "href": "https://www.google.com/webmasters/tools/home?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Workspace",
+        "href": "https://workspace.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Local Services Ads",
+        "href": "https://ads.google.com/home/local-services-ads/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Manufacturer Center",
+        "href": "https://www.google.com/retail/manufacturer-center/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Merchant Center",
+        "href": "https://www.google.com/retail/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Performance Max",
+        "href": "https://ads.google.com/home/campaigns/performance-max/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Pixel for Business",
+        "href": "https://pixel.google/business/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Search Ads",
+        "href": "https://ads.google.com/home/campaigns/search-ads/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Shopping Ads",
+        "href": "https://ads.google.com/home/campaigns/shopping-ads/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Tag Manager",
+        "href": "https://www.google.com/tagmanager/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "YouTube Ads",
+        "href": "https://www.youtube.com/ads/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist "
+      },
+      {
+        "text": "AI for Developers",
+        "href": "https://ai.google.dev/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist "
+      },
+      {
+        "text": "Android",
+        "href": "https://developer.android.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Cloud Computing",
+        "href": "http://cloud.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Firebase",
+        "href": "https://firebase.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Flutter",
+        "href": "https://flutter.dev/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google AdMob",
+        "href": "https://developers.google.com/admob?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Ads",
+        "href": "https://developers.google.com/google-ads?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Analytics",
+        "href": "https://developers.google.com/analytics?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Cloud",
+        "href": "https://cloud.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google for Developers",
+        "href": "https://developers.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Identity Platform",
+        "href": "https://developers.google.com/identity?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Maps Platform",
+        "href": "https://mapsplatform.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Pay",
+        "href": "https://developers.google.com/pay?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Play",
+        "href": "https://developer.android.com/distribute/console?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Google Wallet",
+        "href": "https://developers.google.com/wallet?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Interactive Media Ads",
+        "href": "https://developers.google.com/interactive-media-ads?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Search",
+        "href": "https://developers.google.com/search?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "TensorFlow",
+        "href": "https://www.tensorflow.org/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Web",
+        "href": "https://developers.google.com/web/?utm_source=about.google&utm_medium=referral&utm_campaign=productslist"
+      },
+      {
+        "text": "Blog",
+        "href": "https://www.blog.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link"
+      },
+      {
+        "text": "Brand Resource Center",
+        "href": "https://about.google/brand-resource-center/"
+      },
+      {
+        "text": "Careers",
+        "href": "https://careers.google.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link"
+      },
+      {
+        "text": "Contact us",
+        "href": "https://about.google/company-info/contact-google/"
+      },
+      {
+        "text": "Help Center",
+        "href": "https://support.google.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link "
+      },
+      {
+        "text": "Investor Relations",
+        "href": "https://abc.xyz/investor/?utm_source=about&utm_medium=referral&utm_campaign=footer-link"
+      },
+      {
+        "text": "Locations",
+        "href": "https://about.google/company-info/locations/"
+      },
+      {
+        "text": "Press resources",
+        "href": "https://www.blog.google/press/?utm_source=about&utm_medium=referral&utm_campaign=footer-link"
+      },
+      {
+        "text": "Accessibility",
+        "href": "https://google.com/accessibility?utm_source=about.google&utm_medium=referral&utm_campaign=footer"
+      },
+      {
+        "text": "Crisis Response",
+        "href": "https://crisisresponse.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link"
+      },
+      {
+        "text": "Google.org",
+        "href": "https://www.google.org/?utm_source=about&utm_medium=referral&utm_campaign=footer-link"
+      },
+      {
+        "text": "Google for Health",
+        "href": "https://health.google/?utm_source=about_google&utm_medium=web&utm_content=footer"
+      },
+      {
+        "text": "Grow with Google",
+        "href": "https://grow.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link"
+      },
+      {
+        "text": "Learning",
+        "href": "https://learning.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link"
+      },
+      {
+        "text": "Public Policy",
+        "href": "https://publicpolicy.google/?utm_source=about.google&utm_medium=referral&utm_campaign=footer"
+      },
+      {
+        "text": "Sustainability",
+        "href": "https://sustainability.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link"
+      },
+      {
+        "text": "Google AI",
+        "href": "https://ai.google/?utm_source=about.google&utm_medium=referral&utm_campaign=footer"
+      },
+      {
+        "text": "Google Cloud",
+        "href": "https://cloud.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=footer"
+      },
+      {
+        "text": "Google DeepMind",
+        "href": "https://deepmind.google/?utm_source=about.google&utm_medium=referral&utm_campaign=footer"
+      },
+      {
+        "text": "Google for Developers",
+        "href": "https://developers.google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=footer"
+      },
+      {
+        "text": "Google Labs",
+        "href": "https://labs.google/?utm_source=about.google&utm_medium=referral&utm_campaign=footer"
+      },
+      {
+        "text": "Google Research",
+        "href": "https://research.google/?utm_source=about.google&utm_medium=referral&utm_campaign=footer"
+      },
+      {
+        "text": "Human rights",
+        "href": "https://about.google/company-info/human-rights/"
+      },
+      {
+        "text": "Safety Center",
+        "href": "https://safety.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link"
+      },
+      {
+        "text": "Supplier responsibility",
+        "href": "https://sustainability.google/progress/supplier-responsibility/?utm_source=about.google&utm_medium=referral&utm_campaign=footer"
+      },
+      {
+        "text": "Transparency Center",
+        "href": "https://transparency.google/?utm_source=about.google&utm_medium=referral&utm_campaign=footer"
+      },
+      {
+        "text": "Transparency Report",
+        "href": "https://transparencyreport.google.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link"
+      },
+      {
+        "text": "",
+        "href": "http://google.com/?utm_source=about.google&utm_medium=referral&utm_campaign=global-footer"
+      },
+      {
+        "text": "Privacy",
+        "href": "https://policies.google.com/privacy?utm_source=about.google&utm_medium=referral&utm_campaign=footer"
+      },
+      {
+        "text": "Terms",
+        "href": "https://policies.google.com/terms?utm_source=about.google&utm_medium=referral&utm_campaign=footer"
+      },
+      {
+        "text": "Help",
+        "href": "https://support.google.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link"
+      }
+    ],
+    "images": [
+      {
+        "alt": "Google logo",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/f5/d3/a7f9db7045429cb6dc6be56bdcbe/google-logo-about.svg"
+      },
+      {
+        "alt": "Google logo",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/f5/d3/a7f9db7045429cb6dc6be56bdcbe/google-logo-about.svg"
+      },
+      {
+        "alt": "The Chrome logo, a multicolored circle with a blue center that’s outlined in white.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/70/13/80b12e8440858a2adbb93163bbca/chrome.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The letter \"G\" in green, red, yellow and blue.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/59/61/9b18722e4b54ae9842c6afb18215/search-g.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Docs logo, a blue document with three white lines on it.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/8f/bf/73a00f25403181d79457bebdcf52/docs.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Gemini logo, a four-pointed star that blends from red at the top to blue on the right, with hints of orange, yellow and green.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/a4/97/92c1ec494d129f3fb8d7caa91584/gemini-update.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Maps logo, a multicolored pin with a gray circle in the middle.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/6f/a4/4b742edd49a7a60e00d6db9d308b/maps.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Sheets logo, a green spreadsheet with a white grid inside.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/76/76/46f163464fbd9fb24b99aa1d1ce1/sheets.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The YouTube logo, a red rectangle with a white play button inside.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/58/3f/ac28ee8b450e9e21be9d1626708a/youtube.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Play logo, a multicolored triangle representing a play button.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/28/fe/f27a2e8f401b92129b9b27764746/play.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Gmail logo, a multicolored \"M\" that resembles an envelope.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/a4/ac/18b54588403a817f010adddb535f/gmail.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Photos logo, a multicolored pinwheel.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/f0/07/09fbf78f4a3da5e2362dc2351138/photos.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Android logo, a green robot’s head with eyes and antennae.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/05/8b/706d01a54572a527c226eba944ed/android.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "A hand holds Porcelain-colored Pixel Buds over a dark brown side table. Another hand points towards a phone screen.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/e4/cf/572ac79645df85f1977ce6354153/about-products-3up-support.png=n-w192-h241-fcrop64=1,07cd0000f833ffff-rw"
+      },
+      {
+        "alt": "A person wearing neon yellow clothing, Pixel Buds and a Pixel Watch stretches their arm behind their back.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/ef/1c/caeb6482470382e7911b695ec12b/about-products-3up-shop-the-google-store.jpg=n-w192-h241-fcrop64=1,07cd0000f833ffff-rw"
+      },
+      {
+        "alt": "A person in a bright red jacket looks at their Pixel phone while wearing Pixel Buds.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/75/e1/0a1b96ab4b85a52beba19d471483/about-products-3up-sign-into-your-google-account.jpg=n-w192-h241-fcrop64=1,07cd0000f833ffff-rw"
+      },
+      {
+        "alt": "A young woman is sitting at a desk, smiling and writing notes while looking at a computer screen.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/aa/4c/b599584d422391f6fed2ef9c2cc4/about-products-search-update.png=n-w724-h543-fcrop64=1,20000000e000ffff-rw"
+      },
+      {
+        "alt": "A close-up of someone’s hands circling an image on their phone, using the Circle to Search feature.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/bb/78/8b8beff34cb3b18e66d4537b3e16/about-products-collection-circle-to-search.jpg=n-w564-h407-fcrop64=1,04fb0000fb33ffff-rw"
+      },
+      {
+        "alt": "A person wearing a jean shirt rests their hand under their chin while looking at a laptop screen.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/b8/58/28c377b14d5e8de8ff0ed40dd75e/about-products-collection-gemini-for-workspace.jpg=n-w543-h305-fcrop64=1,00000051ffffffff-rw"
+      },
+      {
+        "alt": "Google Maps shows an overhead view of the Arc de Triomphe casting early-evening long shadows on surrounding buildings. ",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/bd/4d/4135ac794f139054d6e30375093a/about-products-collection-immersiveview.png=n-w543-h305-fcrop64=1,00000051ffffffff-rw"
+      },
+      {
+        "alt": "A person wearing an orange and white cardigan sits and looks at their Pixel phone.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/d0/17/a00d288648ceb5ce464c3f2008ae/about-products-2up-promo-chat-with-gemini.jpg=n-w746-h543-fcrop64=1,22d90000dd27ffff-rw"
+      },
+      {
+        "alt": "Three people smile for a selfie as the middle person captures the moment with an Android-compatible phone.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/b9/6d/656644854825a096ebe1f7af62af/about-products-splash-tiles-android-phone.png=n-w543-h305-fcrop64=1,00000051ffffffff-rw"
+      },
+      {
+        "alt": "Simple illustration of a red car.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/2c/a0/28b7a69443e38f0ef1db867c7864/about-products-splash-tiles-android-car.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "Simple illustration of a green tablet device.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/9a/39/e9a524c748d88a9f8ffa9cb09213/about-products-splash-tiles-android-tablet.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "A person wearing an orange shirt is turned to the side as they adjust something on their hat. They have a Pixel Watch on their wrist.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/c9/05/c079e7a5442d98f55cbe7b102126/about-products-splash-tiles-android-watch.png=n-w543-h305-fcrop64=1,00000051ffffffff-rw"
+      },
+      {
+        "alt": "Various Pixel devices — including phones, a watch, earbuds and a tablet — sit on a desk.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/22/a7/aa71289d4d9f8ca08d444b969a90/about-products-2up-promo-pixel-portfolio-alt.jpg=n-w746-h543-fcrop64=1,22d90000dd27ffff-rw"
+      },
+      {
+        "alt": "A white line splits down a photo of three people, with a blurry image on the left and a clear image on the right.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/f4/42/e6d2bdd64b85bcec49da4e362dd3/about-products-collection-photos-3-update.jpg=n-w543-h305-fcrop64=1,00000051ffffffff-rw"
+      },
+      {
+        "alt": "Two kids dressed in costumes pose for a picture. A trash can is outlined, indicating it’s being removed using Magic Eraser.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/d5/94/ba14705843f2a0a992d8af855c34/about-products-collection-photos-2.jpg=n-w543-h305-fcrop64=1,00000051ffffffff-rw"
+      },
+      {
+        "alt": "A person with red hair looks at their Pixel phone. They are wearing several necklaces and a yellow shirt.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/f7/af/77cccefd4502a1be0c696e28021b/about-products-2up-promo-ai-in-our-products.jpg=n-w746-h543-fcrop64=1,22d90000dd27ffff-rw"
+      },
+      {
+        "alt": "The Android logo, a green robot’s head with eyes and antennae.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/05/8b/706d01a54572a527c226eba944ed/android.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Android Auto logo, a white arrow pointing upwards within a blue triangle.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/de/85/c499e32f4a2facb022cd6299d600/androidauto.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Android TV logo, the words \"Android TV\" in black text.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/1e/c5/138dbf5943a4be33c7544899fdf1/android-tv.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google logo, the letter \"G\" in green, red, yellow and blue.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/bc/1a/a310779347afa1927672dc66a98d/g.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Chrome logo, a multicolored circle with a blue center that’s outlined in white.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/70/13/80b12e8440858a2adbb93163bbca/chrome.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Chrome logo, a multicolored circle with a blue center that’s outlined in white.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/70/13/80b12e8440858a2adbb93163bbca/chrome.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Contacts logo, a blue silhouette of a person icon.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/ff/21/95f22bf94e35bea3ec097d3f4720/contacts.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Digital Wellbeing logo, a green circle sits on top of a green heart in a white circle.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/34/d9/3bd356434fe1b7d990fdb5912c4c/digitalwellbeing.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Files logo, a blue rectangle with green, yellow and red corners folded over like a page.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/19/8f/c5e887404cff894ccbee4ae579d6/files.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Finance logo, a multicolored graph with upward-pointing lines.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/a5/d1/188840bd4a5fa710f5d2545ec8e6/finance.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Fitbit logo, a pattern of black dots within a turquoise circle.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/9d/a3/c1ab33564948a2a44456e9759c15/fitbit.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Flights logo, an icon of an airplane in the middle of a blue-colored circle.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/7b/24/64ccdd9d4b12b3b6f81690f66959/flights.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Gboard logo, a multicolored keyboard icon with the Google \"G\" in the center.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/70/72/56f85a2b4a9ca44fcea8ba9ad2b3/gboard.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Gemini logo, a four-pointed star that blends from red at the top to blue on the right, with hints of orange, yellow and green.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/a4/97/92c1ec494d129f3fb8d7caa91584/gemini-update.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Gmail logo, a multicolored \"M\" that resembles an envelope.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/a4/ac/18b54588403a817f010adddb535f/gmail.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Arts & Culture logo, a multicolored ampersand.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/cd/bf/3b2c73db48c0831c33a4c0f51ef4/arts-culture.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Assistant logo, a cluster of four colored circles.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/d0/55/496820a84083b5526e3be9f51198/assistant.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Authenticator logo, a six-pointed asterisk with different-colored arms and a blue triangle in the center.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/37/1b/27964e0346dcaaf19d20551cdc45/authenticator.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Calendar logo, a multicolored calendar icon with \"31\" in the middle.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/d3/d1/e8596a9246608f8fbd72597729c8/calendar.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Cast logo, a blue rectangle with three curved lines representing signal waves.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/4c/dd/cd9e9755410f92c0f77b38070959/googlecast.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Chat logo, a multicolored speech bubble icon.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/20/6a/55d20ac9443aa8a880005fb26b00/chat.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Classroom logo, a green chalkboard with icons of people on it.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/a8/90/117a98e54990abc49964768973f7/classroom.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Docs logo, a blue document with three white lines on it.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/8f/bf/73a00f25403181d79457bebdcf52/docs.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Drive logo, a green, yellow and blue triangle.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/ab/b8/2005061e4a84927cc1d59f7958dd/drive.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Earth logo, a sphere with blue and white waves.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/73/02/5a9bacb742c69d17bb3fb4797890/earth.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Family Link logo, a multicolored kite.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/b6/2e/c77ecdd849339f41fb2f3069a724/familylink.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Fi Wireless logo, a stylized \"F\" with horizontal bars in blue, green, yellow and red.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/16/2f/702d84fb45f7b334cb48dd803c97/fi.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Find My Device logo, a stylized compass with four wide points in blue, red, green, and yellow, forming a circle around a gray center.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/63/72/1295503f4878b51086a683a6a4f6/findmydevice.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Fit logo, a multicolored heart icon.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/39/44/2b5e908f444baaee43ce291204aa/googlefit.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Fonts logo, a stylized \"AB\" with the \"A\" represented by a red circle and a blue rectangle, and the \"B\" formed by overlapping blue and green circles.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/89/27/86b898004d8498d99297ac781423/fonts.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Forms logo, a purple form icon with white lines and bullet points on it.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/40/54/e236b3d941d6bef1665424812b60/forms.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Home logo, a multicolored house icon.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/c6/ef/7783e5ac4c19b7ab845377d4ee3a/home.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Keep logo, a white lightbulb icon on a yellow background.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/17/af/ac8eb66e4034a86f79437e0dc009/keep.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Maps logo, a multicolored pin with a gray circle in the middle.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/6f/a4/4b742edd49a7a60e00d6db9d308b/maps.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Meet logo, a multicolored video camera icon.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/ff/c3/a381cc374ffa801deb5c0492fa9b/meet.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Messages logo, a multi-layered blue speech bubble icon.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/e9/63/6399dac24a848e339c0b661ee32c/messages.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google logo, the letter \"G\" in green, red, yellow and blue.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/bc/1a/a310779347afa1927672dc66a98d/g.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google News logo, layers of multicolored pages stacked on top of each other, with the letter \"G\" on top. ",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/ec/ca/17131dff4c4fa87ba0491b991ae3/news.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google One logo, a multicolored number \"1.\"",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/c5/85/163c5a584b3fb79490149a2ed3cf/one.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Pay logo, the text \"G Pay.\" ",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/08/78/3a2b13a44d0c88352a4ddb51ae0a/pay.jpg=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Photos logo, a multicolored pinwheel.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/f0/07/09fbf78f4a3da5e2362dc2351138/photos.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Play logo, a multicolored triangle representing a play button.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/28/fe/f27a2e8f401b92129b9b27764746/play.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Play Books logo, a blue triangle shaped like a play button with a light blue bookmark inside.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/f1/2a/9808c40543f58a1d7eb81ccbae6a/playbooks.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Play Games logo, a green triangle shaped like a play button with a light green game controller inside.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/b9/6a/34ef0b274cf08afdbcd8845791b3/playgames.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Play Pass logo, a multicolored ticket stub icon.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/0e/8e/7e5a840d459abd2470a35d917bc9/playpass.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Play Protect logo, a green shield icon with a white play button in the center.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/26/20/019c5b0a460d9bd5783f36ec9341/playprotect.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Sheets logo, a green spreadsheet with a white grid inside.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/76/76/46f163464fbd9fb24b99aa1d1ce1/sheets.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Sites logo, a white grid icon on a purple background representing a webpage.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/62/a7/6db7f9064c83bf207270ee316fff/sites.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Slides logo, a yellow page icon with a white-outlined slide on it.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/1f/82/f8673b7c495b911e1dd7d54e72f6/slides.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Tasks logo, a blue checkmark inside a circle.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/d7/b7/732d26464b5eae0e6f905b8613b3/tasks.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Translate logo, a blue square with the white Google \"G\"  beside a white square with a gray character.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/98/9d/0deda77e493ba72a8a1d0c7b7ead/translate.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Trends logo, a multicolored upward-pointing arrow.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/f7/0e/87753e914c56be7a2e5b5c0aea27/trends.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google TV logo, a multicolored rectangle.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/c1/09/85d6ebbe46c7b86133b742b37cce/tv.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google logo, the letter \"G\" in green, red, yellow and blue.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/bc/1a/a310779347afa1927672dc66a98d/g.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Voice logo, a green telephone icon.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/9f/7f/8b3cf3d6427ca312d0b3a262706f/voice.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Wallet logo, a multicolored wallet.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/19/ca/f9cf06e6481ba32fe3896a1ad988/wallet.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google logo, the letter \"G\" in green, red, yellow and blue.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/bc/1a/a310779347afa1927672dc66a98d/g.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Lens logo, a multicolored outline of a camera.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/d4/7b/25b18cd842a49cdcfb8c355daa1a/lens.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google logo, the letter \"G\" in green, red, yellow and blue.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/bc/1a/a310779347afa1927672dc66a98d/g.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google logo, the letter \"G\" in green, red, yellow and blue.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/bc/1a/a310779347afa1927672dc66a98d/g.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google logo, the letter \"G\" in green, red, yellow and blue.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/bc/1a/a310779347afa1927672dc66a98d/g.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google logo, the letter \"G\" in green, red, yellow and blue.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/bc/1a/a310779347afa1927672dc66a98d/g.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google logo, the letter \"G\" in green, red, yellow and blue.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/bc/1a/a310779347afa1927672dc66a98d/g.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Scholar logo, an icon of a person's head wearing a blue graduation cap.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/85/8d/cbb8047c41939c3212fbe237af6e/scholar.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The letter \"G\" in green, red, yellow and blue.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/59/61/9b18722e4b54ae9842c6afb18215/search-g.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Shopping logo, a multicolored price tag icon with a white \"G\" in the middle.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/bd/4e/d08cdce543ebb1a27770f6131948/shopping.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Street View logo, a green square with a white \"G\" and a diagonal white line, overlaid with a yellow person icon.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/ab/2f/47b4bb2a499c986f95c36ad7797a/streetview.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Travel logo, a multicolored suitcase icon with a white \"G\" on top.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/02/02/eb55d72c46b5bf2db860614b2887/travel.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Waze logo, a black and white speech bubble icon with a smiley face, on wheels.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/3f/a0/6c693124446298e082c9f24ceec5/waze.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Wear OS by Google logo, a multicolored stylized \"W\" with rectangular and circular shapes.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/d9/49/0824f1af4edbaa1eaaea60620379/wearos.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The YouTube logo, a red rectangle with a white play button inside.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/58/3f/ac28ee8b450e9e21be9d1626708a/youtube.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The YouTube Kids logo, a red rectangle with a white play button icon inside, all outlined in black.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/d9/70/dedb49224671be7a5808da380c90/youtubekids.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The YouTube Music logo, a red circle with a white play button icon inside.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/0f/da/a0bda4234aa4920d5d436fd55ad6/youtubemusic.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The YouTube TV logo, a red rectangle resembling a TV with a white play button icon inside.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/09/9f/4e46d6064c60904cd1cba432d8eb/youtubetv.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Android logo, a green robot’s head with eyes and antennae.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/05/8b/706d01a54572a527c226eba944ed/android.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Blogger logo, a stylized uppercase \"B\" in white text on an orange background. ",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/66/1b/c5e696a146b78cd88d8a60d55455/blogger.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Business Profile logo, a blue storefront icon with a white \"G\" on the outside.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/49/06/e6b298d84423b883a499fc4aa0ce/business.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Chrome logo, a multicolored circle with a blue center that’s outlined in white.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/70/13/80b12e8440858a2adbb93163bbca/chrome.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Ads logo, a multicolored and stylized letter \"A.\"",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/22/d7/bdb4eb3344bab6ca3c6d9ac26fe8/ads.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Ads logo, a multicolored and stylized letter \"A.\"",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/d2/2a/2f51b02f4b64afd591a0b52f43d2/ads.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google AdMob logo, an incomplete circle made of a red arc, a yellow arc, and a blue dot at the bottom.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/5e/4c/79f5fa244abfb4822b6d2ac03c58/admob.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google AdSense logo, a yellow diagonal bar with a green circle on its lower end, next to a smaller blue diagonal bar.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/e9/4e/ac472d4546c5ba541a7fe3a3e4d3/adsense.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Ad Manager logo, three horizontal bars in blue and yellow, with three green circles overlaid on the bars.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/44/e8/668481f744ceaebd8098e6ad2376/admanager.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Analytics logo, three bars in different shades of orange.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/83/aa/7d7f74e24e88b85490913bb76bd4/analytics.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Assistant logo, a cluster of four colored circles.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/d0/55/496820a84083b5526e3be9f51198/assistant.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Cloud logo, a multicolored cloud icon.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/e2/92/dc7ce0f54003baccf258292a042f/cloud.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Maps logo, a multicolored pin with a gray circle in the middle.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/6f/a4/4b742edd49a7a60e00d6db9d308b/maps.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Marketing Platform logo, a multicolored circle with four different-colored quadrants.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/7e/d1/e6ce43c743859576388f499b8411/marketing-platform.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Search Console logo, a gray toolbox containing a website with a blue address bar and a gray wrench.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/42/03/f54a14ba4463b09b2e1700f4ecb1/searchconsole.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google logo, the letter \"G\" in green, red, yellow and blue.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/bc/1a/a310779347afa1927672dc66a98d/g.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Ads logo, a multicolored and stylized letter \"A.\"",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/22/d7/bdb4eb3344bab6ca3c6d9ac26fe8/ads.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Manufacturer Center logo, a green square with a hanging tab at the top and a white icon in the center.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/61/b6/99b74c9b4172aebff53aea5939a9/manufaturercenter.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Merchant Center logo, a blue square with a hanging tab at the top and a white price tag icon in the center.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/89/14/0b1aa0f0409a9c15ed3f9e157042/merchantcenter.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Ads logo, a multicolored and stylized letter \"A.\"",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/22/d7/bdb4eb3344bab6ca3c6d9ac26fe8/ads.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google logo, the letter \"G\" in green, red, yellow and blue.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/bc/1a/a310779347afa1927672dc66a98d/g.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Ads logo, a multicolored and stylized letter \"A.\"",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/22/d7/bdb4eb3344bab6ca3c6d9ac26fe8/ads.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Ads logo, a multicolored and stylized letter \"A.\"",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/22/d7/bdb4eb3344bab6ca3c6d9ac26fe8/ads.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Ads logo, a multicolored and stylized letter \"A.\"",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/22/d7/bdb4eb3344bab6ca3c6d9ac26fe8/ads.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The YouTube Ads logo, a red rectangle with a white play button icon inside followed by the text \"Advertising.\"",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/71/b0/9bbf70e749e08196f2b01bcbf4d8/ytads.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "Two stylized \"greater than\" symbols, one in red and blue, the other in green and yellow.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/ea/6f/1926bc4c42f1bfcdbf21f30527d6/developer.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Android logo, a green robot’s head with eyes and antennae.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/05/8b/706d01a54572a527c226eba944ed/android.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Cloud logo, a multicolored cloud icon.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/e2/92/dc7ce0f54003baccf258292a042f/cloud.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Firebase logo, an orange flame icon.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/82/5a/1b5e73594d1d8d0dbb7b46027cde/firebase.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Flutter logo, a stylized, light blue \"F\" with a darker blue base.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/6c/3f/936fe80647a3b1ca86f9591d58d5/flutter.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google AdMob logo, an incomplete circle made of a red arc, a yellow arc, and a blue dot at the bottom.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/5e/4c/79f5fa244abfb4822b6d2ac03c58/admob.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Ads logo, a multicolored and stylized letter \"A.\"",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/22/d7/bdb4eb3344bab6ca3c6d9ac26fe8/ads.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Analytics logo, three bars in different shades of orange.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/83/aa/7d7f74e24e88b85490913bb76bd4/analytics.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Cloud logo, a multicolored cloud icon.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/e2/92/dc7ce0f54003baccf258292a042f/cloud.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "Two stylized \"greater than\" symbols, one in red and blue, the other in green and yellow.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/ea/6f/1926bc4c42f1bfcdbf21f30527d6/developer.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Identity Platform logo, a blue shield containing a white-outlined icon of a person.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/f7/b8/7203fe67436b9e16484757611dff/identityplatform.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Maps logo, a multicolored pin with a gray circle in the middle.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/6f/a4/4b742edd49a7a60e00d6db9d308b/maps.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Pay logo, the text \"G Pay.\" ",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/08/78/3a2b13a44d0c88352a4ddb51ae0a/pay.jpg=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Play logo, a multicolored triangle representing a play button.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/28/fe/f27a2e8f401b92129b9b27764746/play.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google Wallet logo, a multicolored wallet.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/19/ca/f9cf06e6481ba32fe3896a1ad988/wallet.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google logo, the letter \"G\" in green, red, yellow and blue.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/bc/1a/a310779347afa1927672dc66a98d/g.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Search Central logo, a white cartoon robot face with spiky hair, blue eyes and a smile, inside a blue circle.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/78/da/6e77b1914e54a97e69cacd25c71d/searchcentrallogo.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The TensorFlow logo, an orange stylized \"TF\" with the letters interlocking to form a hexagon.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/23/46/bb40bdc746b18cca036019ee4a40/tensorflow.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "The Google logo, the letter \"G\" in green, red, yellow and blue.",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/bc/1a/a310779347afa1927672dc66a98d/g.png=s48-fcrop64=1,00000000ffffffff-rw"
+      },
+      {
+        "alt": "information icon",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/89/d9/d1a4b0f54ccd98ed4e8a4ed0626d/info-24px.png=n-w32-h33-fcrop64=1,00000a3effffffff-rw"
+      },
+      {
+        "alt": "Google logo in dark gray",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/b3/a5/529a3d3047d18be9a5f3547ad7e3/google-logo-footer.svg"
+      }
+    ],
+    "scraped_at": "2025-07-09T22:13:48.670186"
+  },
+  {
+    "url": "https://www.google.com/search?sca_esv=f7156635f6e9a261&tbm=isch",
+    "title": "Google",
+    "headings": [],
+    "paragraphs": [],
+    "links": [
+      {
+        "text": "",
+        "href": "https://www.google.com/about/products/?sca_esv=f7156635f6e9a261"
+      },
+      {
+        "text": "All",
+        "href": "https://www.google.com/search?sca_esv=f7156635f6e9a261"
+      },
+      {
+        "text": "Sign in",
+        "href": "https://accounts.google.com/ServiceLogin?continue=https://www.google.com/imghp%3Fsca_esv%3Df7156635f6e9a261%26tbm%3Disch%26zx%3D1752079429&btmpl=mobile_tier2&hl=en"
+      },
+      {
+        "text": "Privacy",
+        "href": "https://www.google.com/intl/en-IN/policies/privacy/"
+      },
+      {
+        "text": "Terms",
+        "href": "https://www.google.com/intl/en-IN/policies/terms/"
+      },
+      {
+        "text": "Settings",
+        "href": "https://www.google.com/preferences?hl=en"
+      },
+      {
+        "text": "Feedback",
+        "href": "https://www.google.com/tools/feedback/survey/xhtml?productId=196&bucket=typeId:84156&psd_tier=2&hl=en-IN"
+      },
+      {
+        "text": "Help",
+        "href": "https://www.google.com/support/websearch/bin/answer.py?answer=134479&hl=en"
+      },
+      {
+        "text": "Advertising",
+        "href": "https://www.google.com/intl/en-IN/ads"
+      },
+      {
+        "text": "Business",
+        "href": "https://www.google.com/intl/en-IN/services"
+      },
+      {
+        "text": "About",
+        "href": "https://www.google.com/about?hl=en-IN"
+      }
+    ],
+    "images": [
+      {
+        "alt": "",
+        "src": "https://www.google.com/images/branding/searchlogo/1x/googlelogo_tablet_tier1_hp_color_183x64dp.png"
+      }
+    ],
+    "scraped_at": "2025-07-09T22:13:50.052988"
+  },
+  {
+    "url": "https://www.google.com/intl/en-IN/policies/privacy/",
+    "title": "",
+    "headings": [],
+    "paragraphs": [],
+    "links": [
+      {
+        "text": "https://policies.google.com/privacy",
+        "href": "https://policies.google.com/privacy"
+      }
+    ],
+    "images": [],
+    "scraped_at": "2025-07-09T22:13:51.346315"
+  },
+  {
+    "url": "https://www.google.com/intl/en-IN/policies/terms/",
+    "title": "",
+    "headings": [],
+    "paragraphs": [],
+    "links": [
+      {
+        "text": "https://policies.google.com/terms",
+        "href": "https://policies.google.com/terms"
+      }
+    ],
+    "images": [],
+    "scraped_at": "2025-07-09T22:13:52.733607"
+  }
+]

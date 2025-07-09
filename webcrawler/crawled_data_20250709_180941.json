@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://example.com",
+    "title": "Example Domain",
+    "headings": [
+      {
+        "level": 1,
+        "text": "Example Domain"
+      }
+    ],
+    "paragraphs": [
+      "This domain is for use in illustrative examples in documents. You may use this\n    domain in literature without prior coordination or asking for permission.",
+      "More information..."
+    ],
+    "links": [
+      {
+        "text": "More information...",
+        "href": "https://www.iana.org/domains/example"
+      }
+    ],
+    "images": [],
+    "scraped_at": "2025-07-09T18:09:40.833676"
+  }
+]
